@@ -8,7 +8,7 @@ p {
 
 
 body {
-background: #931B1B
+
 }
 em strong {
 color: #000000;
@@ -24,4 +24,7 @@ text-align: center
 }
 .beneficios {
 background: #FFFFFF
+}
+.principal {
+background: #931B1B
 }
