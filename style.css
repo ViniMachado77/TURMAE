@@ -24,12 +24,20 @@ text-align: center
 }
 .beneficios {
 background: #FFFFFF
+padding: 20px;
 }
 .principal {
-background: #931B1B
+background: #931B1B;
+padding: 30px;
 }
 h2 {
 text-align: center;
+}
+ul {
+display: inline-block;
+        vertical-align: top;
+        width: 20%;
+                  margin-right: 15%;
 }
 .imagembeneficios {
 width : 50%;
